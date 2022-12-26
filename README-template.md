@@ -67,4 +67,4 @@ After a Basic understanding of HTML and CSS, I was able to use media query to ma
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Bally14)
+- Frontend Mentor - [@Bally14](https://www.frontendmentor.io/profile/Bally14)
